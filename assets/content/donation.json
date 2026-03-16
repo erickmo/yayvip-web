@@ -1,0 +1,38 @@
+{
+  "hero_slides": [
+    {
+      "caption": "Satu Donasi, Satu Masa Depan Cerah",
+      "subcaption": "Setiap rupiah yang Anda berikan membuka jalan bagi anak-anak Indonesia menuju pendidikan dan karier yang lebih baik."
+    },
+    {
+      "caption": "Bantu Mereka Meraih Mimpi",
+      "subcaption": "Donasi Anda mendanai pelatihan vokasi, magang industri, hingga penyaluran kerja bagi anak-anak berprestasi."
+    },
+    {
+      "caption": "Bersama Kita Wujudkan Indonesia Pintar",
+      "subcaption": "Bergabunglah dengan ribuan donatur yang telah mengubah kehidupan generasi muda Indonesia."
+    }
+  ],
+  "form": {
+    "title": "Donasi Sekarang",
+    "subtitle": "Pilih cara berdonasi yang paling nyaman untuk Anda",
+    "tab_named": "Donatur Terdaftar",
+    "tab_anonymous": "Donasi Langsung",
+    "anonymous_title": "Donasi Tanpa Nama",
+    "anonymous_desc": "Scan QR Code di bawah untuk langsung berdonasi tanpa perlu mendaftar. Dana Anda akan langsung tersalurkan.",
+    "payment_title": "Pembayaran",
+    "payment_desc": "Scan QR Code di bawah untuk menyelesaikan donasi Anda. Terima kasih atas kebaikan Anda!",
+    "submit_label": "Lanjut ke Pembayaran"
+  },
+  "app_download": {
+    "title": "Download Aplikasi VIP",
+    "subtitle": "Pantau donasi, baca cerita inspiratif, dan lihat laporan keuangan langsung dari genggaman Anda.",
+    "features": [
+      "Laporan keuangan yayasan yang transparan dan real-time",
+      "Cerita sukses penerima beasiswa VIP",
+      "Notifikasi update progress anak binaan",
+      "Riwayat donasi dan bukti penyaluran dana"
+    ],
+    "cta": "Segera Hadir di"
+  }
+}

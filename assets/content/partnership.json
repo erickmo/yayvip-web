@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "caption": "Bermitra untuk Indonesia Pintar",
+    "subcaption": "Bergabunglah bersama kami membangun masa depan cerah generasi muda Indonesia melalui berbagai bentuk kemitraan."
+  },
+  "types": {
+    "title": "Jenis Kemitraan",
+    "subtitle": "Berbagai bentuk kemitraan yang bisa Anda jalin bersama VIP",
+    "items": [
+      {
+        "name": "Mitra Korporat",
+        "description": "Perusahaan yang mendukung program VIP melalui pendanaan, fasilitas, atau sumber daya lainnya sebagai bagian dari program CSR yang berdampak sosial bagi generasi muda Indonesia.",
+        "benefits": "Logo di website & laporan tahunan, sertifikat CSR, laporan dampak berkala"
+      },
+      {
+        "name": "Mitra Penempatan Kerja",
+        "description": "Perusahaan atau UMKM yang bersedia menerima lulusan VIP sebagai karyawan tetap maupun kontrak, memastikan setiap peserta memiliki jalur karier yang jelas setelah program selesai.",
+        "benefits": "Akses rekrutmen eksklusif alumni VIP terlatih dan siap kerja"
+      },
+      {
+        "name": "Mitra Magang & Industri",
+        "description": "Pelaku usaha, kafe, agensi digital, atau kantor yang membuka kesempatan magang bagi peserta VIP, memberikan pengalaman kerja nyata dan mentoring profesional.",
+        "benefits": "Tenaga magang terlatih, branding sebagai mitra sosial, networking"
+      },
+      {
+        "name": "Mitra Lembaga Pendidikan",
+        "description": "Sekolah kejuruan, perguruan tinggi, atau lembaga kursus yang berkolaborasi dalam pengembangan kurikulum, penyediaan instruktur, dan fasilitas belajar sesuai standar industri.",
+        "benefits": "Pengembangan kurikulum bersama, akses peserta berprestasi, sertifikasi"
+      },
+      {
+        "name": "Mitra Media & Komunitas",
+        "description": "Organisasi media, komunitas digital, atau influencer yang mendukung penyebaran informasi program VIP dan meningkatkan kesadaran publik tentang pendidikan vokasional.",
+        "benefits": "Konten kolaborasi, exposure komunitas, kontribusi sosial terukur"
+      },
+      {
+        "name": "Mitra Pemerintah & Lembaga Publik",
+        "description": "Instansi pemerintah atau lembaga publik seperti Dinas Tenaga Kerja, BPJS Ketenagakerjaan, atau Kemensos yang mendukung program pemberdayaan pemuda secara sistemik.",
+        "benefits": "Sinergi program pemerintah, data dampak sosial, jangkauan lebih luas"
+      }
+    ]
+  },
+  "contact": {
+    "cta_title": "Tertarik Bermitra?",
+    "cta_desc": "Hubungi kami untuk mendiskusikan bentuk kemitraan yang paling sesuai dengan organisasi Anda.",
+    "phone": "+62 812-3456-7890",
+    "phone_hours": "Senin - Jumat, 09.00 - 17.00 WIB",
+    "email": "vernonindonesiapintar@gmail.com",
+    "email_note": "Respon dalam 1-2 hari kerja",
+    "address": "Jalan Letjen Sutoyo 102",
+    "address_note": "Kunjungi kami untuk diskusi langsung",
+    "stats": [
+      {"value": "10+", "label": "Mitra Aktif"},
+      {"value": "100+", "label": "Anak Terbantu"},
+      {"value": "6", "label": "Program"}
+    ]
+  }
+}

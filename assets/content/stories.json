@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "title": "Cerita VIP",
+    "subtitle": "Berita terbaru dan kisah inspiratif dari Yayasan Vernon Indonesia Pintar"
+  },
+  "articles": [
+    {
+      "title": "Lima Lulusan VIP Batch 1 Resmi Diterima Kerja di Perusahaan Ternama",
+      "summary": "Lima penerima beasiswa dari batch pertama berhasil menyelesaikan pelatihan dan magang, kini resmi bergabung sebagai karyawan tetap.",
+      "date": "12 Maret 2026",
+      "category": "Karier"
+    },
+    {
+      "title": "Kisah Rina: Dari Pelosok Desa Menuju Barista Profesional di Jakarta",
+      "summary": "Berawal dari desa terpencil di NTT, Rina kini menjadi barista profesional di salah satu kafe ternama di Jakarta berkat program VIP.",
+      "date": "8 Maret 2026",
+      "category": "Inspirasi"
+    },
+    {
+      "title": "VIP Jalin Kerjasama dengan 10 Perusahaan Baru untuk Program Magang",
+      "summary": "Vernon Indonesia Pintar memperluas jaringan mitra industri dengan menjalin kerjasama bersama 10 perusahaan baru di berbagai sektor.",
+      "date": "1 Maret 2026",
+      "category": "Partnership"
+    },
+    {
+      "title": "Workshop Digital Marketing Gratis untuk 50 Pemuda Surabaya",
+      "summary": "Sebanyak 50 pemuda dari Surabaya mengikuti workshop digital marketing intensif yang diadakan VIP bekerja sama dengan agensi lokal.",
+      "date": "25 Februari 2026",
+      "category": "Kegiatan"
+    },
+    {
+      "title": "Laporan Keuangan Q1 2026: Transparansi Penuh untuk Donatur",
+      "summary": "Sebagai komitmen transparansi, VIP merilis laporan keuangan kuartal pertama 2026 yang bisa diakses oleh seluruh donatur melalui aplikasi.",
+      "date": "20 Februari 2026",
+      "category": "Transparansi"
+    },
+    {
+      "title": "Pendaftaran Beasiswa Batch 3 Resmi Dibuka — Daftar Sekarang!",
+      "summary": "Batch ketiga program beasiswa VIP resmi dibuka! Tersedia 100 kuota untuk program barista, digital marketing, dan administrasi.",
+      "date": "15 Februari 2026",
+      "category": "Pengumuman"
+    },
+    {
+      "title": "Testimoni Donatur: Mengapa Saya Memilih Mendukung VIP",
+      "summary": "Bapak Andi, seorang donatur tetap, berbagi ceritanya mengapa ia konsisten mendukung VIP selama dua tahun terakhir.",
+      "date": "10 Februari 2026",
+      "category": "Donatur"
+    },
+    {
+      "title": "VIP Raih Penghargaan Yayasan Pendidikan Terbaik 2025",
+      "summary": "Yayasan Vernon Indonesia Pintar meraih penghargaan sebagai yayasan pendidikan vokasional terbaik tahun 2025 dari Kemendikbud.",
+      "date": "5 Februari 2026",
+      "category": "Penghargaan"
+    },
+    {
+      "title": "Program Culinary Arts: 20 Peserta Siap Magang di Restoran Bintang 5",
+      "summary": "Dua puluh peserta program Culinary Arts telah menyelesaikan pelatihan dan siap memulai magang di restoran bintang 5.",
+      "date": "1 Februari 2026",
+      "category": "Program"
+    }
+  ]
+}

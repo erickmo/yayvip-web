@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "tagline": "Empower Tomorrow's Leaders",
+    "subtagline": "Your Support Unlocks Equal Futures for Indonesia's Youth",
+    "cta_donate": "Donasi Sekarang",
+    "cta_learn_more": "Pelajari Lebih Lanjut"
+  },
+  "intro": {
+    "title": "Tentang Kami",
+    "description": "Yayasan Pendidikan kami didedikasikan untuk memberdayakan generasi muda Indonesia melalui akses setara terhadap pendidikan berkualitas, pelatihan vokasi, dan peluang karier yang relevan, dengan membangun ekosistem holistik yang menghubungkan anak-anak berprestasi dari berbagai latar belakang dengan mentor, lembaga pendidikan, dan dunia industri.",
+    "description2": "Kami percaya bahwa setiap potensi anak muda harus diberdayakan tanpa hambatan ekonomi atau sosial, sehingga lahir generasi unggul yang siap bersaing secara global demi masa depan Indonesia yang maju."
+  },
+  "vision": {
+    "title": "Visi Kami",
+    "description": "Mewujudkan generasi muda unggul yang memiliki akses penuh terhadap pendidikan, pelatihan berkualitas, dan kesempatan kerja yang setara, demi masa depan Indonesia yang maju dan berdaya saing global."
+  },
+  "mission": {
+    "title": "Misi Kami",
+    "items": [
+      "Membangun ekosistem pendampingan, pembiayaan, dan pelatihan bagi anak-anak berprestasi dari berbagai latar belakang.",
+      "Memfasilitasi keterhubungan antara anak-anak berprestasi, mentor, lembaga pendidikan, dan dunia industri, sehingga lahir kolaborasi berkelanjutan untuk pengembangan potensi.",
+      "Menyediakan program beasiswa, pelatihan vokasi, dan pengembangan soft skill yang sesuai kebutuhan dunia kerja masa kini.",
+      "Mengawal perjalanan anak-anak penerima manfaat dari proses belajar, pelatihan, hingga penempatan kerja yang relevan.",
+      "Berkontribusi aktif dalam menciptakan pemerataan akses kesempatan pendidikan dan karier di seluruh wilayah Indonesia, tanpa memandang latar ekonomi dan sosial."
+    ]
+  },
+  "criteria": {
+    "title": "Kriteria Penerima Beasiswa",
+    "items": [
+      {"title": "Keluarga Tidak Mampu", "description": "Dari keluarga tidak mampu yang membutuhkan bantuan pendidikan."},
+      {"title": "Lulusan SD/SMP/SMA", "description": "Belum mendapatkan penghasilan dan membutuhkan pelatihan kerja."},
+      {"title": "Karakter Baik", "description": "Memiliki kriteria & karakter anak yang bagus."},
+      {"title": "Semangat Belajar", "description": "Suka belajar dan bersedia untuk dilatih hingga siap kerja."}
+    ]
+  },
+  "scholarship": {
+    "title": "Sistem Beasiswa",
+    "description": "Program Beasiswa Vernon Indonesia Pintar (VIP) memberikan beasiswa penuh bagi anak-anak yang memenuhi kriteria agar mendapatkan pelatihan yang tepat. Penerima beasiswa mendapat kesempatan mengikuti pelatihan vokasi profesional di Vernon Edu, dengan fokus pada keterampilan kerja praktis seperti barista, digital marketing, administrasi perkantoran, atau bidang lain sesuai kebutuhan industri saat ini.",
+    "steps": [
+      {"title": "Pelatihan Intensif", "description": "Pelatihan vokasi profesional selama 10 bulan agar peserta siap kerja."},
+      {"title": "Magang Industri", "description": "Magang selama 4 bulan di perusahaan mitra VIP untuk pengalaman nyata."},
+      {"title": "Penyaluran Kerja", "description": "Penyaluran kerja di perusahaan ternama dengan gaji kompetitif."}
+    ]
+  },
+  "donation": {
+    "title": "Sistem Donasi",
+    "tagline": "Bisa Mulai dari Berapapun, Tanpa Komitmen, Tanpa Ikatan Bulanan.",
+    "features": [
+      {"title": "Nominal Bebas", "description": "Siapa saja bisa berdonasi dengan nominal bebas mulai Rp10.000, Rp50.000, atau sesuai keinginan Anda—tanpa kewajiban bulanan atau rutin."},
+      {"title": "Dana 100% Tersalurkan", "description": "100% dana dialokasikan untuk beasiswa pelatihan di Vernon Edu, magang industri, penyaluran dunia kerja, atau fasilitas beasiswa penuh bagi anak."},
+      {"title": "Donasi Super Mudah", "description": "Anda dapat secara langsung berdonasi dari aplikasi dan dapat langsung dilihat terkait progress alokasi dana penerima secara real-time."}
+    ]
+  },
+  "realtime": {
+    "title": "Pantau Progress Secara Realtime",
+    "features": [
+      {"title": "Update Rekening", "description": "Informasi saldo rekening yayasan akan senantiasa diupdate di sistem."},
+      {"title": "Aplikasi VIP", "description": "Donatur dapat pantau real-time saldo terkini, foto/video progress kegiatan, hingga testimoni sukses langsung dari lapangan."},
+      {"title": "Laporan Lengkap", "description": "Laporan lengkap: total dana terkumpul, jumlah anak dibantu, progress pelatihan, dan anak yang berhasil mendapatkan pekerjaan."}
+    ]
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Kindly contact us if you have any questions",
+    "address": "Jalan Letjen Sutoyo 102",
+    "website": "yayasan.vip",
+    "email": "vernonindonesiapintar@gmail.com",
+    "instagram": "vernonindonesiapintar",
+    "tiktok": "yayvip"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "hero_slides": [
+    {
+      "caption": "Raih Masa Depanmu Bersama VIP",
+      "subcaption": "Program beasiswa penuh yang membawa Anda dari pelatihan vokasi hingga mendapatkan pekerjaan di perusahaan ternama."
+    },
+    {
+      "caption": "Pelatihan Gratis, Karier Nyata",
+      "subcaption": "Dapatkan pelatihan barista, digital marketing, administrasi, dan bidang lainnya tanpa biaya sepeser pun."
+    },
+    {
+      "caption": "Dari Belajar Hingga Bekerja",
+      "subcaption": "VIP mendampingi perjalanan Anda dari pelatihan intensif, magang industri, hingga penyaluran kerja."
+    }
+  ],
+  "flow": {
+    "title": "Alur Beasiswa VIP",
+    "subtitle": "Perjalanan lengkap dari pendaftaran hingga mendapatkan pekerjaan",
+    "steps": [
+      {"title": "Pendaftaran", "description": "Daftar online dengan mengisi form dan melengkapi dokumen persyaratan."},
+      {"title": "Seleksi", "description": "Tim VIP akan menyeleksi berdasarkan kriteria kelayakan dan motivasi."},
+      {"title": "Pelatihan Intensif", "description": "Pelatihan vokasi profesional selama 10 bulan di Vernon Edu."},
+      {"title": "Magang Industri", "description": "Pengalaman kerja nyata selama 4 bulan di perusahaan mitra VIP."},
+      {"title": "Penyaluran Kerja", "description": "Penempatan kerja di perusahaan ternama dengan gaji kompetitif."}
+    ],
+    "requirements": [
+      "Berasal dari keluarga tidak mampu (dibuktikan dengan SKTM)",
+      "Lulusan SD/SMP/SMA yang belum memiliki penghasilan tetap",
+      "Memiliki karakter dan perilaku yang baik",
+      "Memiliki semangat belajar tinggi dan bersedia mengikuti pelatihan",
+      "Bersedia mengikuti seluruh rangkaian program (pelatihan, magang, penempatan)",
+      "Usia 17-25 tahun"
+    ]
+  },
+  "programs": {
+    "title": "Program Beasiswa Tersedia",
+    "subtitle": "Pilih program pelatihan yang sesuai dengan minat dan bakatmu",
+    "items": [
+      {
+        "name": "Barista Profesional",
+        "description": "Kuasai seni meracik kopi dari dasar hingga latte art. Pelatihan mencakup pengenalan biji kopi, teknik brewing, dan manajemen kafe.",
+        "duration": "10 bulan pelatihan + 4 bulan magang"
+      },
+      {
+        "name": "Digital Marketing",
+        "description": "Pelajari strategi pemasaran digital termasuk social media marketing, SEO, content creation, dan analisis data kampanye.",
+        "duration": "10 bulan pelatihan + 4 bulan magang"
+      },
+      {
+        "name": "Administrasi Perkantoran",
+        "description": "Pelatihan administrasi modern meliputi manajemen dokumen, korespondensi bisnis, pengoperasian software office, dan customer service.",
+        "duration": "10 bulan pelatihan + 4 bulan magang"
+      },
+      {
+        "name": "Desain Grafis & Multimedia",
+        "description": "Kembangkan kreativitas melalui desain logo, editing video, fotografi produk, dan pembuatan konten visual untuk bisnis.",
+        "duration": "10 bulan pelatihan + 4 bulan magang"
+      },
+      {
+        "name": "Teknisi Komputer & Jaringan",
+        "description": "Dalami perakitan, perawatan, dan troubleshooting komputer serta instalasi dan konfigurasi jaringan.",
+        "duration": "10 bulan pelatihan + 4 bulan magang"
+      },
+      {
+        "name": "Culinary Arts",
+        "description": "Pelajari teknik memasak profesional, food plating, food safety, dan manajemen dapur restoran.",
+        "duration": "10 bulan pelatihan + 4 bulan magang"
+      }
+    ]
+  },
+  "form": {
+    "title": "Daftar Beasiswa",
+    "subtitle": "Isi form di bawah untuk mendaftar beasiswa atau bantu anak lain dengan berdonasi",
+    "tab_apply": "Daftar Beasiswa",
+    "tab_donate": "Donasi untuk Beasiswa",
+    "submit_label": "Kirim Pendaftaran",
+    "success_message": "Pendaftaran berhasil dikirim! Tim VIP akan menghubungi Anda dalam 3-5 hari kerja.",
+    "donate_title": "Donasi untuk Beasiswa",
+    "donate_desc": "Bantu anak-anak berprestasi mendapatkan beasiswa pelatihan. Scan QR Code di bawah untuk berdonasi langsung.",
+    "education_options": ["SD", "SMP", "SMA/SMK", "Lainnya"]
+  }
+}
